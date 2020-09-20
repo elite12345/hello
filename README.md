@@ -18,4 +18,4 @@ I'm Sathwika ,An aspiring web developer who believes good product just solves yo
 
  - 🌱 I love to create websites 
  
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harishsg99&show_icons=true" alt="harishsg99" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=elite12345&show_icons=true" alt="elite12345" /></p>
